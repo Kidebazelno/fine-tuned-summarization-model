@@ -26,10 +26,5 @@ python3 run_summarization.py \
 
 ```
 
-## Rouge_score
-```shell
-python3 eval.py -r path_to_jsonl
-I use this to get the rouge score of my different strategy parameters part
-```
 
 
