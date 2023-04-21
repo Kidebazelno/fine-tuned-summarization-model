@@ -1,3 +1,6 @@
+## Description
+In this project, I fine-tuned the google MT5 transformer model to predict the possible news topic given the news' context.
+
 ## Environment
 ```shell
 bash download.sh
